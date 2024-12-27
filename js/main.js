@@ -1,6 +1,6 @@
 import Header from "./Header/Header.js";
-import Products from "./products/Products.js";
 import Slider from "./Slider/Slider.js";
+import Products from "./Ali/Products.js";
 
 async function swiper() {
   await Header();
