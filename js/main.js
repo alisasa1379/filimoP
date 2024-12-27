@@ -1,6 +1,6 @@
-import Header from "./header/header.js";
-import Slider from "./Slider/Slider.js";
+import Header from "./Header/Header.js";
 import Products from "./products/Products.js";
+import Slider from "./Slider/Slider.js";
 
 async function swiper() {
   await Header();
