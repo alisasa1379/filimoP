@@ -1,0 +1,77 @@
+header{
+    width: 100%;
+    background-color: #2b2b2b;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px 45px;
+    box-sizing: border-box;
+    .right{
+        width: 80% ;
+        height: inherit;
+        nav{
+            width: 100%;
+            height: inherit;
+            ul{
+                width: 100%;
+                height: inherit;
+                list-style: none;
+                display: flex;
+                flex-flow: row nowrap;
+                justify-content: start;
+                align-items: center;
+                gap: 16px;
+                li{
+                    width: fit-content;
+                    display: flex;
+                    justify-content: centere;
+                    align-items: center;
+                    gap: 10px;
+                    img{
+                        width: 20%;
+                    }
+                    a{
+                        color: white;
+                        text-transform: capitalize;
+                        font-family: iranSans;
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+    }
+    .left{
+        width: 20%;
+        height: inherit;
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: end;
+        align-items: center;
+        gap: 16px;
+        .sub{
+            all: unset;
+            width: fit-content;
+            padding: 10px 20px;
+            border-radius: 10px;
+            background-color: green;
+            color: white;
+            font-family: iranSans;
+            font-size: 13px;
+            cursor: pointer;
+        }
+        .login{
+            all: unset;
+            width: fit-content;
+            padding: 10px 20px;
+            border-radius: 10px;
+            background-color: rgb(135, 129, 129);
+            color: white;
+            font-family: iranSans;
+            font-size: 13px;
+            cursor: pointer;
+        }
+
+    }
+
+}

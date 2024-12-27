@@ -1,0 +1,110 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "فیلیمو",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "فیلیموتور",
+      "link": "#",
+      "icon": "https://iili.io/2elSihJ.png"
+    },
+    {
+      "id": 3,
+      "name": "مدرسه",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "name": "جستجو",
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "name": "یلدا",
+      "link": "#"
+    }
+  ],
+  "menuBtns": [
+    {
+      "id": 1,
+      "name": "خرید اشتراک",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "ورود",
+      "link": "#"
+    }
+  ],
+  "slider": [
+    {
+      "id": 1,
+      "src": "https://iili.io/2elLd0b.jpg",
+      "alt": "joker"
+    },
+    {
+      "id": 2,
+      "src": "https://iili.io/2elLPTB.jpg",
+      "alt": "mardnimrokh"
+    },
+    {
+      "id": 3,
+      "src": "https://iili.io/2elQ3CX.jpg",
+      "alt": "sehat"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "lenovo",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias modi harum natus suscipit necessitatibus ipsum debitis adipisci placeat delectus amet a nobis doloribus consequatur magni omnis eum enim, impedit sunt!",
+      "img": "https://hniesfp.imgix.net/8/images/detailed/786/ZXX-00040.jpg?fit=fill&bg=0FFF&w=1500&h=1000&auto=format,compress",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "title": "samsung",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias modi harum natus suscipit necessitatibus ipsum debitis adipisci placeat delectus amet a nobis doloribus consequatur magni omnis eum enim, impedit sunt!",
+      "img": "https://hniesfp.imgix.net/8/images/detailed/786/ZXX-00040.jpg?fit=fill&bg=0FFF&w=1500&h=1000&auto=format,compress",
+      "price": 800
+    },
+    {
+      "id": 3,
+      "title": "MAC",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias modi harum natus suscipit necessitatibus ipsum debitis adipisci placeat delectus amet a nobis doloribus consequatur magni omnis eum enim, impedit sunt!",
+      "img": "https://hniesfp.imgix.net/8/images/detailed/786/ZXX-00040.jpg?fit=fill&bg=0FFF&w=1500&h=1000&auto=format,compress",
+      "price": 1500
+    },
+    {
+      "id": 4,
+      "title": "hp",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias modi harum natus suscipit necessitatibus ipsum debitis adipisci placeat delectus amet a nobis doloribus consequatur magni omnis eum enim, impedit sunt!",
+      "img": "https://hniesfp.imgix.net/8/images/detailed/786/ZXX-00040.jpg?fit=fill&bg=0FFF&w=1500&h=1000&auto=format,compress",
+      "price": 600
+    },
+    {
+      "id": 5,
+      "title": "del",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias modi harum natus suscipit necessitatibus ipsum debitis adipisci placeat delectus amet a nobis doloribus consequatur magni omnis eum enim, impedit sunt!",
+      "img": "https://hniesfp.imgix.net/8/images/detailed/786/ZXX-00040.jpg?fit=fill&bg=0FFF&w=1500&h=1000&auto=format,compress",
+      "price": 300
+    },
+    {
+      "id": 6,
+      "title": "lenovo2",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias modi harum natus suscipit necessitatibus ipsum debitis adipisci placeat delectus amet a nobis doloribus consequatur magni omnis eum enim, impedit sunt!",
+      "img": "https://hniesfp.imgix.net/8/images/detailed/786/ZXX-00040.jpg?fit=fill&bg=0FFF&w=1500&h=1000&auto=format,compress",
+      "price": 700
+    },
+    {
+      "id": 7,
+      "title": "surface",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias modi harum natus suscipit necessitatibus ipsum debitis adipisci placeat delectus amet a nobis doloribus consequatur magni omnis eum enim, impedit sunt!",
+      "img": "https://hniesfp.imgix.net/8/images/detailed/786/ZXX-00040.jpg?fit=fill&bg=0FFF&w=1500&h=1000&auto=format,compress",
+      "price": 900
+    }
+  ]
+}
